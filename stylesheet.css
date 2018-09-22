@@ -1,0 +1,54 @@
+*{box-sizing: border-box;}
+#generator{
+    height: 150px;
+    width: 800px;
+    background-color: #ffc0cbd7;
+    color: black;
+    padding: 0.2rem;
+    font-family: 'Montserrat';
+    margin-bottom: 20px;
+
+}
+
+#generator h2{
+    font-weight: bolder;
+    text-align: center;
+}
+
+
+#input-text{
+    height: 30px;
+    width: 400px;
+    font-size: 8pt;
+margin-left: 135px;
+  
+}
+#generate{
+   height: 30px;
+    font-size: 10pt;
+    background-color: rgb(61, 233, 95);
+    border: none;
+    border-radius: 0.2rem;
+}
+#stop{
+    background-color: rgb(226, 79, 79);
+    height: 30px;
+    font-size: 10pt;
+    border: none;
+    border-radius: 0.2rem;
+}
+div{
+    height: 110px;
+    width: 700px;
+    font-family: 'Montserrat';
+    padding: 3rem;
+}
+
+.copy{
+    float : right;
+    position: relative;
+    width : 4rem;
+    height: 2rem;
+    border: none;
+    border-radius: 0.2rem;
+}
